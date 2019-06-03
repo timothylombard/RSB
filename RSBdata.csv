@@ -1,0 +1,8 @@
+﻿Date,Date of Agreement,Target Ship,Target Cost,Design Name,Placed,Unplaced,Placed Within Board Outline,Total Components,RatNets,NoRatNets,Total Nets,RatPins,NoRatPins,Total Pins,Connected,NotConnected,Connections,Tested,UnTested,NO_TEST,TestTotal,DRC Errors,DRC Status,Hours Worked,OT Hours,Design Directory path,CompanyName/Productline,ProjectName,Notes/Comment
+18/1/17,14/1/17,18/1/17,12500,Abc_CPU_Main,3588,0,,3588,10764,2400,13164,65820,0,49080,49080,0,49080,8838,0,7805,16643,0,UP TO DATE,16,4,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,Ready for Fabout! 
+16/1/17,14/1/17,18/1/17,12500,Abc_CPU_Main,3588,0,,3588,10764,2400,13164,65820,0,49080,49080,16740,65820,1033,4326,7805,13164,659,NOT UP TO DATE,40,8,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,Getting back on track
+13/1/17,14/1/17,18/1/17,12500,Abc_CPU_Main,2946,642,,3588,10764,2400,13164,65820,0,49080,49080,16740,65820,538,4821,7805,13164,1204,UP TO DATE,38,4,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,DESIGN CHANGE!
+10/1/17,1/1/17,11/1/17,9000,Abc_CPU_Main,2946,0,,2946,8838,0,8838,44190,0,44190,44190,0,44190,1033,0,7805,8838,0,,30,0,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,Ready for Fabout! 
+7/1/17,1/1/17,11/1/17,9000,Abc_CPU_Main,2921,25,,2946,8838,0,8838,44190,0,44190,44190,4190,48380,538,495,7805,8838,266,,48,18,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,Making more Progresss
+4/1/17,1/1/17,11/1/17,9000,Abc_CPU_Main,2624,322,,2946,8838,0,8838,44190,0,44190,44190,0,44190,268,765,7805,8838,4028,,48,0,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,Making progress
+1/1/17,1/1/17,11/1/17,9000,Abc_CPU_Main,0,2946,,2946,8838,0,8838,44190,0,44190,44190,44190,88380,0,1033,7805,8838,0,,12,0,C:\Users\<username>\Documents\,ACME,ABC_CPU_Main,Just starting
